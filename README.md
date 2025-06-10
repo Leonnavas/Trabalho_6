@@ -43,22 +43,23 @@ Este é um projeto desenvolvido para a disciplina de **Tecnologias de Front-End*
 git clone (https://github.com/Leonnavas/Trabalho_6.git)
 cd Trabalho_6.git
 
-## 📸 Print das telas
 
-### 🔍 Buscar
-![Tela de Busca](src/assets/Buscar.jpg)
+## 📸 Prints das telas
 
-### 🛒 Carrinho
-![Tela do Carrinho](src/assets/Carrinho.jpg)
+### 🔍 Tela de Busca
+![Tela de Busca](src/assets/buscar.jpg)
 
-### 🗂️ Catálogo
-![Tela do Catalogo](src/assets/Catalogo.jpg)
+### 🛒 Tela do Carrinho
+![Tela do Carrinho](src/assets/carrinho.jpg)
 
-### 📄 Detalhes
-![Tela de Detalhes](src/assets/Detalhes.jpg)
+### 🗂️ Tela do Catálogo
+![Tela do Catálogo](src/assets/catalogo.jpg)
 
-### 📑 Paginação
-![Tela de Paginação](src/assets/Paginação.jpg)
+### 📄 Tela de Detalhes
+![Tela de Detalhes](src/assets/detalhes.jpg)
+
+### 📑 Tela de Paginação
+![Tela de Paginação](src/assets/paginacao.jpg)
 
 
 (Assista no Youtube) - https://youtu.be/FDkwzyn0FGY 
