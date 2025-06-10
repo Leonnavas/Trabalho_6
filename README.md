@@ -52,7 +52,7 @@ cd Trabalho_6.git
 ![Tela do Carrinho](src/assets/Carrinho.jpg)
 
 ### 🗂️ Catálogo
-![Tela do Catálogo](src/assets/Catalogo.jpg)
+![Tela do Catalogo](src/assets/Catalogo.jpg)
 
 ### 📄 Detalhes
 ![Tela de Detalhes](src/assets/Detalhes.jpg)
